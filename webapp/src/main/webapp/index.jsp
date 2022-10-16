@@ -1,3 +1,3 @@
 <h1> RahulShettyAcademy.com Learning</h1>
 <h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch newly added the code into index jsp file</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h2> Good Luck and we are almost done with the course.With ci/cd pipeline integrations.Thankyou</h2>
